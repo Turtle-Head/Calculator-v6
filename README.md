@@ -1,9 +1,9 @@
 # Calculator-v6
-Author: James Fehr
-Date: 2023-03-03
-Standard Calculator
-For ITD Class assignment
-Features:
+# Author: James Fehr
+# Date: 2023-03-03
+# Standard Calculator
+# For ITD Class assignment
+# Features:
 - History of operations
 - Current values being used
 - "+" Plus
