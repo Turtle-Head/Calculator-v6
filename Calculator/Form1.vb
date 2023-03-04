@@ -169,7 +169,8 @@
     Private Sub PM_Click(sender As Object, e As EventArgs) Handles PM.Click 'changes +/-
         hist = Resultbox.Text   'stores number
         Resultbox.Text = -hist  'switch positive and negative in Resultbox
-        hist = 0                'clear hist variable
+        'hist = 0                'clear hist variable
+        Curnt.Text = -hist
     End Sub
 
     Private Sub MPer_Click(sender As Object, e As EventArgs) Handles MPer.Click

@@ -278,9 +278,10 @@ Partial Class Form1
         Curnt.Location = New Point(17, 214)
         Curnt.Name = "Curnt"
         Curnt.PlaceholderText = "current"
-        Curnt.RightToLeft = RightToLeft.Yes
+        Curnt.RightToLeft = RightToLeft.No
         Curnt.Size = New Size(188, 23)
         Curnt.TabIndex = 23
+        Curnt.TextAlign = HorizontalAlignment.Right
         ' 
         ' Form1
         ' 
