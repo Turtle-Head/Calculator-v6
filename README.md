@@ -2,7 +2,7 @@
 # Author: James Fehr
 # Date: 2023-03-03
 # Standard Calculator
-# For ITD Class assignment
+# Sixth version of Calculator
 # Features:
 - History of operations
 - Current values being used
@@ -13,5 +13,5 @@
 - "%" Mod
 - "." Decimal
 - "+/-" Positive/Negative change
-- Cascading arithmatic operations
+- Cascading arithmetic operations
 - Can use Decimal values in calculations
